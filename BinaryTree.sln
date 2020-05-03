@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{4B960878-7D37-415C-918E-3B166E3A43E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cricarba.BinaryTree", "cricarba.BinaryTree\cricarba.BinaryTree.csproj", "{63E8881C-D0E5-4AF8-8706-EE2A88F63511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B960878-7D37-415C-918E-3B166E3A43E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B960878-7D37-415C-918E-3B166E3A43E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B960878-7D37-415C-918E-3B166E3A43E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B960878-7D37-415C-918E-3B166E3A43E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E8881C-D0E5-4AF8-8706-EE2A88F63511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E8881C-D0E5-4AF8-8706-EE2A88F63511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E8881C-D0E5-4AF8-8706-EE2A88F63511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E8881C-D0E5-4AF8-8706-EE2A88F63511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80BE46B0-5A95-4FE4-BEB0-EB0DEF392CFB}
+	EndGlobalSection
+EndGlobal

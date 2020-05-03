@@ -1,0 +1,9 @@
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\BinaryTree\bin\Debug\cricarba.BinaryTree.dll
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\BinaryTree\bin\Debug\cricarba.BinaryTree.pdb
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CopyComplete
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

@@ -1,0 +1,5 @@
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\cricarba.BinaryTree\bin\Debug\cricarba.BinaryTree.dll
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\cricarba.BinaryTree\bin\Debug\cricarba.BinaryTree.pdb
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\cricarba.BinaryTree\obj\Debug\cricarba.BinaryTree.csprojAssemblyReference.cache
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\cricarba.BinaryTree\obj\Debug\cricarba.BinaryTree.dll
+C:\Users\Freddy Castelblanco\Documents\Archivos\Proyectos\BinaryTree\cricarba.BinaryTree\obj\Debug\cricarba.BinaryTree.pdb
